@@ -1,6 +1,6 @@
 ﻿{
   "name": "profound",
-  "version": 2.1,
+  "version": 2.2,
   "startup": "profound.js",
   "command": "profound",
   "help": [

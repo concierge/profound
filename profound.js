@@ -7,7 +7,7 @@
  * Written By: Jay Harris
  * Date Written: 21/07/2015
  */
-var request = require.safe('request');
+var request = require('request');
 
 exports.fetch = function(callback) {
     request.post('http://watchout4snakes.com/wo4snakes/Random/NewRandomSentence', function(error, response) {
